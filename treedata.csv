@@ -2,5 +2,5 @@ name,parent
 SpecimenSet,null
 CIL-2003-116-I-195,SpecimenSet
 Crnial,CIL-2003-116-I-195
-Daughter of A,Level 2: A
-Level 2: B,Top Level
+Axial,CIL-2003-116-I-195
+CIL-2003-116-I-196,SpecimenSet
