@@ -1,6 +1,6 @@
 name,parent
-Level 2: A,Top Level
-Top Level,null
-Son of A,Level 2: A
+SpecimenSet,null
+CIL-2003-116-I-195,Top Level
+Crnial,CIL-2003-116-I-195
 Daughter of A,Level 2: A
 Level 2: B,Top Level
