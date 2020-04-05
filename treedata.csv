@@ -1,6 +1,25 @@
 name,parent
-SpecimenSet,null
-CIL-2003-116-I-195,SpecimenSet
-Crnial,CIL-2003-116-I-195
-Axial,CIL-2003-116-I-195
-CIL-2003-116-I-196,SpecimenSet
+Root Level,null
+CIL 2003-116-G-01,Root Level
+Flat,CIL 2003-116-G-01
+Appendicular,Flat
+Pectoral Girdle,Appendicular
+Shoulder,Pectoral Girdle
+Scapula,Shoulder
+2,Scapula
+Irregular,CIL 2003-116-G-01
+Appendicular,Irregular
+Lower Extremity,Appendicular
+Ankle,Lower Extremity
+Calcaneus,Ankle
+1,Calcaneus
+Cuboid,Ankle
+1,Cuboid
+First (Medial) cuneiform,Ankle
+1,First (Medial) cuneiform
+Navicular,Ankle
+1,Navicular
+Second (Intermediate) cuneiform,Ankle
+1,Second (Intermediate) cuneiform
+Talus,Ankle
+1,Talus
